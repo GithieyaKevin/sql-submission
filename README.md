@@ -2,6 +2,7 @@ ERD PICTURE
 
 
 
+![ERD-Submission](https://github.com/user-attachments/assets/d69290f2-c7d5-482a-bace-1080cd31a247)
 
 
 CLINIC BOOKING SYSTEM SQL DATABASE.
